@@ -1,0 +1,6 @@
+framework module Pods_SwiftySynchronizer {
+  umbrella header "Pods-SwiftySynchronizer-umbrella.h"
+
+  export *
+  module * { export * }
+}
